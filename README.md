@@ -1,4 +1,5 @@
 # test-repo
 update readme file for Message
 
-Hello world!
+Hello world! 
+version
