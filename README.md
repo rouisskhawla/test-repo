@@ -2,4 +2,4 @@
 update readme file for Message
 
 Hello world! 
-version
+test build 
