@@ -1,4 +1,5 @@
 # test-repo
-# update readme file
+update readme file
 
 test the build with jenkins
+show build
